@@ -20,7 +20,7 @@
     "@fortawesome/fontawesome-free": "^5.7.2",
     "@ladjs/bootstrap-social": "^7.0.2",
     "@octokit/rest": "^16.16.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bcrypt-nodejs": "^0.0.3",
     "body-parser": "^1.18.3",
     "bootstrap": "^4.3.1",
@@ -68,7 +68,7 @@
     "request": "^2.88.0",
     "stripe": "^6.25.1",
     "tumblr.js": "^2.0.0",
-    "twilio": "^3.28.1",
+    "twilio": "^4.6.0",
     "twit": "^2.2.11",
     "validator": "^10.11.0"
   },
